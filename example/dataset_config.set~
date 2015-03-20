@@ -1,0 +1,12 @@
+#My first test with cn24 for Kitty dataset
+
+
+
+#Define classes 
+classes=1
+road
+
+#I have to define the color 
+colors
+0xFFFFFF
+

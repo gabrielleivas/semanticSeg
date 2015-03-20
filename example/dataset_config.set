@@ -1,0 +1,14 @@
+#My first test with cn24 for Kitty dataset
+
+testing=DATASET_TEST.Tensor
+training=DATASET_TRAIN.Tensor
+
+
+#Define classes 
+classes=1
+road
+
+#I have to define the color 
+colors
+0xFFFFFF
+
